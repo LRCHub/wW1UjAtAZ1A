@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "痛いの痛いの飛んでいけっ",
+  "base_artist": "MIMI",
+  "createdAt": "2026-01-06T05:09:32.005421Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "痛いの痛いの飛んでいけっ (feat. saewool)",
+      "artist": "MIMI",
+      "has_synced": false,
+      "path": "select/pl_01_痛いの痛いの飛んでいけっ_(feat._saewool)_MIMI.txt"
+    }
+  ]
+}
